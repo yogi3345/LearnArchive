@@ -1,0 +1,6 @@
+learn\basic\generics\helper\beans\Car.class
+learn\basic\generics\helper\beans\Bike.class
+learn\basic\generics\helper\beans\Vehicle.class
+learn\basic\generics\stack\FlexibleGenericStack.class
+learn\basic\generics\stack\GenericStack.class
+learn\basic\generics\Main.class
