@@ -8,7 +8,7 @@ import learn.basic.generics.stack.FlexibleGenericStack;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Main {
+public class DemonstrateFlexibleGenericsImportance {
 
     public static void main(String args[]) {
 
